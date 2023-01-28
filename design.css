@@ -4,7 +4,6 @@ body{
 p{
     color: rgb(243, 245, 245);
     text-align: left ;
-    
 }
 h2{
     color: deeppink;
@@ -16,43 +15,36 @@ h4{
 }
 .container{
     display: grid;
-
     align-items: center;
     grid-template-columns: 2fr 2fr 2fr;
     justify-content: center;
     column-gap: 100px;
     margin: 150px 10px 10px 250px;
-   
 }
 div{
     text-align: center;
 }
-
 img {
-    
     max-width: 100%;
     max-height:100%;
-   
-   
-  }
+ }
   .image{
     display: flex;
     gap : 55px
   }
-  
-  .text {
+.text {
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     text-align: right;
     font-size: 30px;
     float: left;
-  }
-  .GFG{
+}
+.GFG{
     background-color: rgb(252, 248, 250);
     color: rgb(0, 0, 12);
     text-shadow: 10rem;
     font-style: italic ;
     font-weight: 700;
     align-self: right;
-  }
+}
   
   
